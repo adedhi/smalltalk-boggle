@@ -12,7 +12,6 @@ Boggle class
 !Boggle class methodsFor: 'as yet unclassified' stamp: 'AdeshvirDhillon 2/18/2024 18:01'!
 search: board for: words
 		
-	" Your code here "
 	| word_dict first_char dict_arr board_size board_full_size found_dict curr_char temp_dict_arr new_dict_arr search_result |
 	
 	board_size := (board size).
